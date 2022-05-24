@@ -10,6 +10,8 @@ public class MakeLiveMultiplayerTarget : TargetRules
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		ExtraModuleNames.AddRange( new string[] { "MakeLiveMultiplayer" } );
-		//added commit for test
+		//
+		//test
+		//
 	}
 }
